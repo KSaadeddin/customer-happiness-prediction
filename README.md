@@ -104,7 +104,7 @@ This shrinks the survey from **6 questions → 4 questions**, improving response
 ## ⚙️ Setup
 
 ```bash
-git clone https://github.com/<your-username>/customer-happiness-prediction.git
+git clone https://github.com/KSaadeddin/customer-happiness-prediction.git
 cd customer-happiness-prediction
 python -m venv venv
 source venv/bin/activate      # Windows: venv\Scripts\activate
@@ -147,8 +147,8 @@ pytest tests/
 
 ## 👤 Author
 
-**Your Name**  
-[LinkedIn](https://linkedin.com/in/your-handle) · [GitHub](https://github.com/your-username)
+**Kamal Saadeddin**  
+[LinkedIn](https://www.linkedin.com/in/kamal-saadeddin/) · [GitHub](https://github.com/KSaadeddin)
 
 ---
 
