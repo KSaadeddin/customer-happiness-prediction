@@ -3,7 +3,7 @@ from pathlib import Path
 
 # Paths
 ROOT_DIR = Path(__file__).resolve().parent.parent
-DATA_PATH = ROOT_DIR / "data" / "raw" / "survey_data.csv"
+DATA_PATH = ROOT_DIR / "data" / "raw" / "ACME-HappinessSurvey2020.csv"
 MODEL_DIR = ROOT_DIR / "models"
 FIG_DIR = ROOT_DIR / "reports" / "figures"
 
